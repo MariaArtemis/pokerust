@@ -98,3 +98,6 @@ fabric.properties
 # Added by cargo
 
 /target
+
+# Personal Access Token for Github
+.pat
